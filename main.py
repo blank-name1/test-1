@@ -2,7 +2,7 @@ a = input("İlk sayıyı girin: ")
 sayi_1 = int(a)
 b = input("İkinci sayıyı girin: ")
 sayi_2 = int(b)
-print("Toplama için 1, çıkarma için 2, çarpma için, 3, bölme için 4, üssü almak için 5 tuşuna basın.")
+print("Toplama için 1, çıkarma için 2, çarpma için 3, bölme için 4, üssü almak için 5 tuşuna basın.")
 print("Ayrıca 6'ya basarak bölmeyi tam sayıya çevirebilir veya 7'ye basarak sayıların modunu alabilirsiniz.")
 islem = input("İşlem seçiminizi yapın: ")
 if islem == "1":
